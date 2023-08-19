@@ -1,16 +1,24 @@
-### Hi there this is SHIVAM KUMAR SHARMA  👋
 
-<!--
-**iamshivamkumarsharma/iamshivamkumarsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# This is Shivam Kumar Sharma
+Welcome to my github
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning data science 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-sharma-816318200//)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hiiShivamSharma)
+
+
+## 🛠 Skills
+Machine Learning
+Deep learning 
+html
+CSS
+Python
+
+
+
+
+
+![Logo](https://github-readme-stats.vercel.app/api?username=iamshivamkumarsharma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
