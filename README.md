@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shivam Kumar Sharma
 
 🚀 **Final year Dual Degree student at IIT Kharagpur**  
-💡 Passionate about **Machine Learning, Deep Learning, Computer Vision,LLMs,SLMs, GenAI and Data Analytic**  
+💡 Passionate about **Machine Learning, Deep Learning, Computer Vision, LLMs, SLMs, GenAI, and Data Analytics**  
 🌱 Always exploring the intersection of **AI** and **real-world problem solving**  
 
 ---
@@ -10,7 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-sharma-816318200/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hiiShivamSharma)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) <!-- Add your portfolio link here -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/shivamkgpian/)
 
 ---
 
@@ -24,7 +25,6 @@
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshivamkumarsharma&show_icons=true&theme=radical)
@@ -33,10 +33,12 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=iamshivamkumarsharma&theme=onedark&row=1&column=6)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamshivamkumarsharma&theme=react-dark&hide_border=true)
 
+---
 
-## 📊 GitHub Stats
+## 🏆 LeetCode Stats
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamshivamkumarsharma&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![LeetCode Stats](https://leetcard.jacoblin.cool/shivamkgpian?theme=dark&font=Baloo%202&ext=activity)
+<!-- Other themes: dark, light, auto, forest -->
 
 ---
 
