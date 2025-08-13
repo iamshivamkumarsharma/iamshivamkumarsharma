@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shivam Kumar Sharma
 
 🚀 **Final year Dual Degree student at IIT Kharagpur**  
-💡 Passionate about **Machine Learning, Deep Learning, Computer Vision,LLMs,SLMs, GenAI and Data Analytics **  
+💡 Passionate about **Machine Learning, Deep Learning, Computer Vision,LLMs,SLMs, GenAI and Data Analytic**  
 🌱 Always exploring the intersection of **AI** and **real-world problem solving**  
 
 ---
@@ -23,6 +23,16 @@
 - **Other Skills:** SQL, Git/GitHub, Streamlit
 
 ---
+
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshivamkumarsharma&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshivamkumarsharma&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=iamshivamkumarsharma&theme=radical&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=iamshivamkumarsharma&theme=onedark&row=1&column=6)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamshivamkumarsharma&theme=react-dark&hide_border=true)
+
 
 ## 📊 GitHub Stats
 
