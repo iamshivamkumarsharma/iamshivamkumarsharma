@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shivam Kumar Sharma
 
-🚀 **Final year Dual Degree student at IIT Kharagpur**  
-💡 Passionate about **Machine Learning, Deep Learning, Computer Vision, LLMs, SLMs, GenAI, and Data Analytics**  
+🚀 ** Dual Degree graduate from IIT Kharagpur**  
+💡 Passionate about **Machine Learning, Deep Learning, Software Engineering, Computer Vision, LLMs, SLMs, GenAI, and Data Analytics**  
 🌱 Always exploring the intersection of **AI** and **real-world problem solving**  
 
 ---
